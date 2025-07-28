@@ -9,6 +9,7 @@ A simple chatbot that answers questions about uploaded PDF files using natural l
 - **Hugging Face Embeddings** – For semantic understanding
 - **FAISS** – Vector similarity search
 - **PyPDF2** – PDF text extraction
+- **ChatGroq (Groq API)** – low latency LLM response generation
 
 ## 🚀 Features
 
